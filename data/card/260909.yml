@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.2"
   latestRelease: "v2.10.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:52:17Z
+  collectedAt: 2026-09-09T20:12:44Z
 timeline:
   created: 2025-03-09
   lastCommit: 2026-07-23
@@ -83,7 +83,7 @@ total:
   commit: 504
 ---
 path: /home/runner/.x-repo/github.com/basnijholt/dotbins
-collectedAt: 2026-09-09T05:52:18Z
+collectedAt: 2026-09-09T20:12:46Z
 loc:
   Python:
     code: 8263
