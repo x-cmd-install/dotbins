@@ -14,13 +14,13 @@ x install dotbins
 
 ## Code insight
 
-Total: **8,653** lines of code across **41** files in the top 5 languages.
+Total: **8,712** lines of code across **41** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 8,263 | 614 | 1,591 | 27 |
-| Yaml | 200 | 2 | 13 | 3 |
-| Toml | 187 | 9 | 37 | 2 |
+| Python | 8,304 | 603 | 1,588 | 27 |
+| Toml | 204 | 9 | 37 | 2 |
+| Yaml | 201 | 2 | 13 | 3 |
 | Html | 3 | 1 | 0 | 1 |
 | Markdown | 0 | 953 | 478 | 8 |
 
@@ -32,8 +32,8 @@ Total: **8,653** lines of code across **41** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.10.2` (2026-07-22)
-- **Last commit**: 2026-07-23
+- **Latest**: `v2.11.0` (2026-11-24)
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **8,653** lines of code across **41** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 121 · **Open PRs**: 16 · **Closed issues**: 21 · **Open issues**: 11 · **Commits**: 504
+- **Releases**: 74 · **Merged PRs**: 130 · **Open PRs**: 7 · **Closed issues**: 21 · **Open issues**: 11 · **Commits**: 513
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 1 | 1 | 7 | 0 | 0 | 3 |
-| 360d | 2025-11-28 | 7 | 24 | 11 | 6 | 2 | 32 |
-| last720d | 2024-12-03 | 73 | 121 | 16 | 21 | 11 | 504 |
+| 30d | 2026-10-25 | 1 | 2 | 0 | 0 | 0 | 9 |
+| last60d | 2026-09-25 | 1 | 2 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-26 | 1 | 2 | 0 | 0 | 0 | 9 |
+| last180d | 2026-05-28 | 2 | 8 | 0 | 0 | 0 | 12 |
+| 360d | 2025-11-29 | 8 | 33 | 2 | 6 | 2 | 41 |
+| last720d | 2024-12-04 | 74 | 130 | 7 | 21 | 11 | 513 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for dotbins lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:33:40Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:19:20Z._
