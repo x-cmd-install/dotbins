@@ -1,0 +1,120 @@
+about:
+  description: "Keep updated binaries in your dotfiles 🧰"
+  license: Apache-2.0
+  homepage: https://dotbins.nijho.lt
+  head: 6a1eb0b
+  archived: false
+  latestVersion: "v2.11.0"
+  latestRelease: "v2.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:27:26Z
+timeline:
+  created: 2025-03-09
+  lastCommit: 2026-11-24
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 
+popularity:
+  star: 273
+  watcher: 3
+  fork: 6
+  release: 74
+  contributor: 2
+  pullRequest: 153
+  issue: 32
+language:
+  Python: 346222
+totalBytes: 346222
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 8
+    mergedPR: 32
+    openPR: 2
+    closedIssue: 6
+    openIssue: 2
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 74
+    mergedPR: 130
+    openPR: 7
+    closedIssue: 21
+    openIssue: 11
+    commit: 513
+total:
+  release: 74
+  mergedPR: 130
+  openPR: 7
+  closedIssue: 21
+  openIssue: 11
+  commit: 513
+---
+path: /home/runner/.x-repo/github.com/basnijholt/dotbins
+collectedAt: 2026-11-28T08:27:27Z
+loc:
+  Python:
+    code: 8304
+    comments: 603
+    blanks: 1588
+    files: 27
+  Toml:
+    code: 204
+    comments: 9
+    blanks: 37
+    files: 2
+  Yaml:
+    code: 201
+    comments: 2
+    blanks: 13
+    files: 3
+  Html:
+    code: 3
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 953
+    blanks: 478
+    files: 8
+total:
+  code: 9499
+  comments: 1656
+  blanks: 2194
+  files: 41
+---
+
+---
